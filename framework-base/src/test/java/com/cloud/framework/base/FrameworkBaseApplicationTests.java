@@ -1,4 +1,4 @@
-package com.cloud.frameworkbase;
+package com.cloud.framework.base;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

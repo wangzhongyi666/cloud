@@ -1,4 +1,4 @@
-package com.cloud.frameworkbase.model;
+package com.cloud.framework.base.model;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
